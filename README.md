@@ -1,6 +1,6 @@
 # app_store_afs
 
-A new Flutter project.
+Criação de Projeto em Flutter, para aplicativo de uma loja de E-commerce.
 
 ## Getting Started
 
